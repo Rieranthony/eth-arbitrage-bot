@@ -1,0 +1,19 @@
+# Node
+node_modules
+
+# Mac specific
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+.env
+
+coverage
+coverage.json
+
+# Hardhat files
+cache
+artifacts
